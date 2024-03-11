@@ -1,6 +1,6 @@
 # Retail-Data-Mining
 
-This repository has 10 dataset files, 1 python file, and 1 jupyter notebook file.
+This repository has 10 dataset files, 1 python file, and 1 jupyter notebook file, and 1 midtermm report pdf.
 
 ## Dataset Files:
 
@@ -23,7 +23,9 @@ brute_apriori_fpgrowth_algorithms.py
 
 jupyter_midterm_code.ipynb
 
-### The midterm report will be submitted on canvas
+### The midterm report pdf
+
+CS634 Midterm Project - Saketh Lakshmanan.pdf
 
 ### The libraries imported for the code are as follows:
 
