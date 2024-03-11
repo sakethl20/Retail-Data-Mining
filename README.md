@@ -25,7 +25,7 @@ jupyter_midterm_code.ipynb
 
 ### The midterm report pdf
 
-CS634 Midterm Project - Saketh Lakshmanan.pdf
+CS634_Midterm_Project_Saketh_Lakshmanan.pdf
 
 ### The libraries imported for the code are as follows:
 
